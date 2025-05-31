@@ -34,3 +34,14 @@
 - 純粋なコンポーネント
 - ui コンポーネントライブラリの使い方
 - 読みやすいコード(リーダブルコードの実践)
+
+## setup
+
+### frontend
+
+- vite
+  - React+TS
+- Tailwind CSS for shadcn.ui
+- shadcn.ui
+- apollo client
+- HooksForm
